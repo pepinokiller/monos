@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -12,8 +12,6 @@
     <a href="https://www.youtube.com/watch?v=V99CluoQNLg">Click para ser farkas</a>
 </body>
 </html>
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
