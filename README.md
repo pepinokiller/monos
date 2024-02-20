@@ -8,7 +8,7 @@
 <body>
     <h1>Página de monos</h1>
     <p>hola monos de du brazil.</p>
-    <img src="hola_macaco.jpg" alt="hola_macaco.jpg">
+    <img src="hola_macaco.jpg" alt="monos">
     <a href="https://www.youtube.com/watch?v=V99CluoQNLg">Click para ser farkas</a>
 </body>
 </html>
