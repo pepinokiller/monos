@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Título de la página</title>
-    <!-- Enlace al archivo CSS -->
-    <link rel="stylesheet" href="styles.css">
+ 
 </head>
 <body>
     <h1>Página de monos</h1>
@@ -33,6 +32,6 @@
     <p>Otro contenido de la página...</p>
 </body>
 </html> 
+   <link rel="stylesheet" href="styles.css">
+   background-color: blue;
 
-    background-color: lightblue;
-    color: white;
