@@ -33,7 +33,6 @@
     <p>Otro contenido de la página...</p>
 </body>
 </html> 
-body {
+
     background-color: lightblue;
     color: white;
-}
